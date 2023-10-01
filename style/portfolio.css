@@ -1,7 +1,41 @@
 /*font-family: 'Roboto', sans-serif;
 
 font-family: 'Montserrat', sans-serif;*/
+
+h1,
+h5,
+p {
+  font-family: "Roboto", sans-serif;
+}
 h1 {
+  font-size: 72px;
+  font-weight: bold;
+  margin-top: 30px;
+}
+
+.btn-homepage {
+  border-radius: 50px;
+  border: 1px solid black;
+  margin-top: 20px;
+  background: white;
+  color: black;
+  font-size: 14px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: bold;
+}
+.hero {
   text-align: center;
-  font-family: "Poppins", sans-serif;
+  margin-top: 100px;
+}
+.herp p {
+  font-size: 24px;
+  font-weight: bold;
+  margin: 0;
+}
+.hero h5 {
+  font-size: 18px;
+  line-height: 2;
+  font-weight: 400;
+  font-family: "Roboto", sans-serif;
+  margin-top: 20px;
 }
