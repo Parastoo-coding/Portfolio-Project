@@ -13,10 +13,9 @@ h1 {
   margin-top: 30px;
 }
 
+.hero,
 .btn-homepage {
   border-radius: 50px;
-  border: 1px solid black;
-  margin-top: 20px;
   background: white;
   color: black;
   font-size: 14px;
@@ -25,16 +24,23 @@ h1 {
 }
 .hero {
   text-align: center;
-  margin-top: 100px;
+  background-image: url(../images/shelley-photo.png);
+  padding-top: 274px;
+  padding-bottom: 310px;
+  padding-right: 422px;
+  padding-left: 423px;
+  color: white;
+  background-color: #272142;
 }
-.herp p {
-  font-size: 24px;
+.hero p {
+  font-size: 18px;
   font-weight: bold;
   margin: 0;
+  margin-bottom: 17px;
 }
 .hero h5 {
   font-size: 18px;
-  line-height: 2;
+  line-height: 1.5;
   font-weight: 400;
   font-family: "Roboto", sans-serif;
   margin-top: 20px;
