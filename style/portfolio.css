@@ -1,7 +1,9 @@
 /*font-family: 'Roboto', sans-serif;
 
 font-family: 'Montserrat', sans-serif;*/
-
+body {
+  background-color: black;
+}
 h1,
 h5,
 p {
@@ -21,12 +23,13 @@ h1 {
   font-size: 14px;
   font-family: "Montserrat", sans-serif;
   font-weight: bold;
+  line-height: 15px;
 }
 .hero {
   text-align: center;
   background-image: url(../images/shelley-photo.png);
-  padding-top: 274px;
-  padding-bottom: 310px;
+  padding-top: 276px;
+  padding-bottom: 301px;
   padding-right: 422px;
   padding-left: 423px;
   color: white;
@@ -44,4 +47,11 @@ h1 {
   font-weight: 400;
   font-family: "Roboto", sans-serif;
   margin-top: 20px;
+}
+.link-work {
+  font-size: 27px;
+  font-family: "Montserrat", sans-serif;
+  color: white;
+  text-decoration: none;
+  font-weight: normal;
 }
