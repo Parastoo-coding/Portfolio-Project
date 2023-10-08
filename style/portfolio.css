@@ -103,3 +103,18 @@ h1 {
 .content-gallery .row {
   justify-content: space-between;
 }
+
+.contact-content {
+  margin-top: 40px;
+}
+
+.contact-content p {
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+}
+
+#address-order #email-order #phone-order {
+  font-size: 14px;
+  font-weight: bold;
+  color: #f65282;
+}
