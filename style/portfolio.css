@@ -113,6 +113,32 @@ h1 {
   font-family: "Roboto", sans-serif;
 }
 
+nav {
+  padding: 20px 0;
+  color: #202020;
+}
+.logo {
+  max-width: 15px;
+}
+
+nav ul {
+  padding: 0;
+  margin: 0;
+}
+
+nav li {
+  display: inline;
+  list-style: none;
+  line-height: 40px;
+  margin-left: 12px;
+}
+nav a {
+  font-size: 16px;
+  font-family: "Roboto", sans-serif;
+  text-decoration: none;
+  transition: all 150ms ease-in-out;
+}
+
 #address-order #email-order #phone-order {
   font-size: 14px;
   font-weight: bold;
