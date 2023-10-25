@@ -17,7 +17,6 @@ h1 {
 
 .hero,
 .btn-homepage {
-  border-radius: 50px;
   background: white;
   color: black;
   font-size: 14px;
@@ -72,7 +71,7 @@ h1 {
 }
 .gray-photo {
   width: 700px;
-  height: 783px;
+  height: 723px;
   margin-bottom: 20px;
 }
 
@@ -118,7 +117,7 @@ nav {
   color: #202020;
 }
 .logo {
-  max-width: 15px;
+  max-width: 130px;
 }
 
 nav ul {
