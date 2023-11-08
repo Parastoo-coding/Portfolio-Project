@@ -32,7 +32,7 @@ h1 {
   padding-right: 422px;
   padding-left: 423px;
   color: white;
-  background-color: #272142;
+  background-color: #211f2c;
 }
 .hero p {
   font-size: 18px;
@@ -117,7 +117,9 @@ nav {
   color: #202020;
 }
 .logo {
-  max-width: 130px;
+  padding-top: 13px;
+  padding-bottom: 13px;
+  line-height: 2;
 }
 
 nav ul {
